@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 * 🌍  I'm based in San Francisco Bay Area, California
-* 🖥️  See my portfolio at [My portfolio](http://marcoshopkins.com)
+* 🖥️  See my portfolio [Here](http://marcoshopkins.com)
 * ✉️  You can contact me at [marcos123hopkins@gmail.com](mailto:marcos123hopkins@gmail.com)
 * 🚀  I'm currently working on [Reel Diary](http://reeldiary.netlify.app)
 * 🧠  I'm learning Data Structures and Algorithms
