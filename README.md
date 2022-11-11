@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at www.marcoshopkins.com
+- 👨‍💻 My portfolio is available at www.marcoshopkins.com
 
 - 💬 Ask me about **React**
 
